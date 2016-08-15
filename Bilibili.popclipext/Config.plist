@@ -10,7 +10,7 @@
 			<key>Regular Expression</key>
 			<string>(av\d{6,})</string>
 			<key>Title</key>
-			<string>Google</string>
+			<string>Bilibili</string>
 			<key>URL</key>
 			<string>http://www.bilibili.com/video/{popclip text}/</string>
 		</dict>
